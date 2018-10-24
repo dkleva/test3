@@ -1,0 +1,4 @@
+# Created by cloud-init v. 17.1 on Wed, 24 Oct 2018 14:01:50 +0000
+
+# User rules for ubuntu
+ubuntu ALL=(ALL) NOPASSWD:ALL
